@@ -1,7 +1,5 @@
 package com.devsuperior.dsmeta.entities;
 
-import net.bytebuddy.dynamic.loading.InjectionClassLoader;
-
 import javax.persistence.*;
 import java.time.LocalDate;
 
